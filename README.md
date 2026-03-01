@@ -22,3 +22,6 @@ Analyze patient visit and treatment data to derive healthcare insights using SQL
 - Window Functions (RANK)
 - Healthcare Data Interpretation
 - KPI and Cost Analysis
+
+- ## Author
+Madhumitha Gunasekar
